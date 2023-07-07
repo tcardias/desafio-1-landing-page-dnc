@@ -1,2 +1,4 @@
-# desafio-1-landing-page-dnc
-Esse é o resultado do primeiro desafio proposto na Formação de Tecnologia da Escola DNC.
+# Desafio 1 - Resolução
+Link do site disponibilizado: <br>
+Link da planilha de registro de informação: https://shorturl.at/blI15
+
